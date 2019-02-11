@@ -17,3 +17,8 @@ truffle compile
 ```
 truffle deploy
 ```
+
+## Documentation
+
+Contract documentation is available at:
+[https://c04x.github.io/docs/docs/Identity/](//c04x.github.io/docs/docs/Identity/)...
